@@ -1,4 +1,4 @@
 # ash-demo
 my first git repo 
 <br>
-author - Prakash Chakraborty
+author - Prakash U of M
